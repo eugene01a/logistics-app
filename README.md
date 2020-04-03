@@ -11,7 +11,7 @@ Examples: Do, Buy, Return
 ## Content:
 Every note contains a checklist of items. They can be things to buy/return, or things to do.
 
-##sourceApplication
+## sourceApplication
 * LogisticsApp
 
 ## Place:
