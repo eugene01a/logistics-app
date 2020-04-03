@@ -12,10 +12,10 @@ Examples: Do, Buy, Return
 Every note contains a checklist of items. They can be things to buy/return, or things to do.
 
 ##sourceApplication
--LogisticsApp
+* LogisticsApp
 
 ## Place:
--All items in the list require me to be at a certain place. The name is what you would type into google map search.
+All items in the list require me to be at a certain place. The name is what you would type into google map search.
 Example: home-depot, walmart
 
 ## Conditions:
